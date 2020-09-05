@@ -1,0 +1,1 @@
+{"version":3,"sources":["selectize.js"],"names":["define","skylark","attach"],"mappings":";;;;;;;AAAAA,QACC,yBACC,SAASC,GAGV,OAAOA,EAAQC,OAAO","file":"../selectize.js","sourcesContent":["define([\r\n\t\"skylark-langx/skylark\"\r\n],function(skylark) {\r\n\tvar selectize = {};\r\n\r\n\treturn skylark.attach(\"widgets.selectize\",selectize);\r\n\r\n});\r\n\r\n"]}
