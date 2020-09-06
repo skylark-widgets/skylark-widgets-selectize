@@ -14,7 +14,7 @@ define([
 	 var CheckBox = Widget.inherit({
 		"_construct" : function (parent)
 		{
-			Widget.pototype._construct.call(this, parent, "div");
+			Widget.prototype._construct.call(this, parent, "div");
 
 			var self = this;
 
