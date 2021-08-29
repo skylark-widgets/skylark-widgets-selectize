@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["define","selectize"],"mappings":";;;;;;;AAAAA,QACC,cACA,aACA,mBACC,SAASC,GACV,OAAOA","file":"../main.js","sourcesContent":["define([\r\n\t\"./selectize\",\r\n\t\"./checkbox\",\r\n\t\"./dropdown-list\"\r\n],function(selectize){\r\n\treturn selectize;\r\n});"]}
